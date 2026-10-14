@@ -1,0 +1,6 @@
+{
+  "name": "JR西日本 列車走行位置モニター",
+  "description": "JR西日本の列車リアルタイム走行位置・在線情報・車両別混雑度・遅延状況を可視化する運行情報モニター",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
